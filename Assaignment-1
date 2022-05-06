@@ -1,0 +1,6 @@
+T={1:['Madhu','M','Bca','Paas'],2:['Nandu','F','BBA','Pass'],3:['Bhabi','M','BSc','Fail']}
+sno=int(input('enter student number:'))
+print('Name of the student:',T[sno][0])
+print('Gender of the student:',T[sno][1])
+print('Student group:',T[sno][2])
+print('Result:',T[sno][3])
